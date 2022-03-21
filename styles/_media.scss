@@ -40,7 +40,10 @@
             padding-top:2.5rem;
         }
         .left-about{
-            padding-right: o;
+            padding-right: 0;
+            h4{
+                text-align: center;
+            }
             p{
                 padding-right: 0;
             }
@@ -65,9 +68,21 @@
             margin-left:0;
             margin-top: 2.5rem;
         }
+        .left-contact{
+            h4{
+                font-size: 1.7rem;
+                text-align: center;
+            }
+        }
     }
     .contact-icon{
         justify-content: center;
+    }
+
+    .contact-item{
+        span{
+            font-size: .7rem;
+        }
     }
     
     .contact-content-con .right-contact .i-c-2{

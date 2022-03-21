@@ -1043,7 +1043,10 @@ section {
     padding-top: 2.5rem;
   }
   .about-container .left-about {
-    padding-right: o;
+    padding-right: 0;
+  }
+  .about-container .left-about h4 {
+    text-align: center;
   }
   .about-container .left-about p {
     padding-right: 0;
@@ -1068,10 +1071,17 @@ section {
     margin-left: 0;
     margin-top: 2.5rem;
   }
+  .contact-content-con .left-contact h4 {
+    font-size: 1.7rem;
+    text-align: center;
+  }
   .contact-icon {
     -webkit-box-pack: center;
         -ms-flex-pack: center;
             justify-content: center;
+  }
+  .contact-item span {
+    font-size: .7rem;
   }
   .contact-content-con .right-contact .i-c-2 {
     -webkit-box-orient: vertical;
