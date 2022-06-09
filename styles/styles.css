@@ -475,6 +475,14 @@ section {
   width: 30%;
 }
 
+.about-stats .progress-bars .progress-bar .progress-con .progress .python {
+  width: 20%;
+}
+
+.about-stats .progress-bars .progress-bar .progress-con .progress .flutter {
+  width: 50%;
+}
+
 .stat-title {
   text-transform: uppercase;
   font-size: 1.4rem;
