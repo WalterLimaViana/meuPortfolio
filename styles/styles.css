@@ -1,4 +1,4 @@
-@charset "UTF-8";
+Nice@charset "UTF-8";
 /*Reset Browser default*/
 * {
   margin: 0;
@@ -469,6 +469,10 @@ section {
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .javascript {
   width: 60%;
+}
+
+.about-stats .progress-bars .progress-bar .progress-con .progress .angular {
+  width: 30%;
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .java {
